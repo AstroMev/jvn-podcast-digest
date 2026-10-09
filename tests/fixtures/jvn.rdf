@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns="http://purl.org/rss/1.0/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xml:lang="ja">
+
+ <channel rdf:about="https://jvn.jp/rss/jvn.rdf">
+  <title>JVNRSS Feed - Update Entry</title>
+  <link>https://jvn.jp/</link>
+  <description>JVN サイト新着ならびに更新情報</description>
+    <dc:publisher>JVN</dc:publisher>
+
+    <dc:creator>jvn@jvn.jp</dc:creator>
+    <dc:date>2026-10-09T08:36:37+09:00</dc:date>
+    <dcterms:issued>2026-10-09T08:36:37+09:00</dcterms:issued>
+    <dcterms:modified>2026-10-09T08:36:37+09:00</dcterms:modified>
+  <items>
+   <rdf:Seq>
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU91137775/" />
+          <rdf:li rdf:resource="https://jvn.jp/jp/JVN91153973/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU98062224/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU94062711/" />
+          <rdf:li rdf:resource="https://jvn.jp/jp/JVN13510969/" />
+          <rdf:li rdf:resource="https://jvn.jp/jp/JVN53292492/" />
+          <rdf:li rdf:resource="https://jvn.jp/jp/JVN24352487/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU94648869/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU91842649/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU92911062/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU93468181/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU90160989/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU93754811/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU96968110/" />
+          <rdf:li rdf:resource="https://jvn.jp/jp/JVN22475874/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU99151548/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU97027767/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU94863997/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU97703430/" />
+          <rdf:li rdf:resource="https://jvn.jp/vu/JVNVU96520526/" />
+        </rdf:Seq>
+  </items>
+ </channel>
+
+  <item rdf:about="https://jvn.jp/vu/JVNVU91137775/">
+  <title>CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）</title>
+  <link>https://jvn.jp/vu/JVNVU91137775/</link>
+  <description>米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#91137775</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU91137775/</dc:relation>
+  <dc:date>2026-10-09T09:00:00+09:00</dc:date>
+  <dcterms:issued>2026-10-09T09:00:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-10-09T09:00:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/jp/JVN91153973/">
+  <title>Movable Typeにおける複数の脆弱性</title>
+  <link>https://jvn.jp/jp/JVN91153973/</link>
+  <description>シックス・アパート株式会社が提供するMovable Typeには複数の脆弱性が存在します。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVN#91153973</dc:identifier>
+  <dc:relation>https://jvn.jp/jp/JVN91153973/</dc:relation>
+  <dc:date>2026-10-07T14:00:00+09:00</dc:date>
+  <dcterms:issued>2026-10-07T14:00:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-10-07T14:00:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU98062224/">
+  <title>キーエンス製複数製品におけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性</title>
+  <link>https://jvn.jp/vu/JVNVU98062224/</link>
+  <description>株式会社キーエンスが提供するXG VisionTerminal、XG-X VisionTerminal、LJ Series Terminal-SoftwareおよびWI Series Terminal-Softwareには、XML外部エンティティ参照（XXE）の不適切な制限の脆弱性が存在します。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#98062224</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU98062224/</dc:relation>
+  <dc:date>2026-10-07T13:00:00+09:00</dc:date>
+  <dcterms:issued>2026-09-02T13:00:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-10-07T13:00:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU94062711/">
+  <title>CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）</title>
+  <link>https://jvn.jp/vu/JVNVU94062711/</link>
+  <description>米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#94062711</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU94062711/</dc:relation>
+  <dc:date>2026-10-07T09:00:00+09:00</dc:date>
+  <dcterms:issued>2026-10-07T09:00:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-10-07T09:00:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/jp/JVN13510969/">
+  <title>MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性</title>
+  <link>https://jvn.jp/jp/JVN13510969/</link>
+  <description>Measurement Computing Corporationが提供するUniversal Library for Linux (uldaq)には、スタックベースのバッファオーバーフローの脆弱性が存在します。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVN#13510969</dc:identifier>
+  <dc:relation>https://jvn.jp/jp/JVN13510969/</dc:relation>
+  <dc:date>2026-10-06T12:00:15+09:00</dc:date>
+  <dcterms:issued>2026-10-06T12:00:15+09:00</dcterms:issued>
+  <dcterms:modified>2026-10-06T12:00:15+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/jp/JVN53292492/">
+  <title>Androidアプリ「チケット流通センター」における複数の脆弱性</title>
+  <link>https://jvn.jp/jp/JVN53292492/</link>
+  <description>株式会社ウェイブダッシュが提供するAndroidアプリ「チケット流通センター」には、複数の脆弱性が存在します。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVN#53292492</dc:identifier>
+  <dc:relation>https://jvn.jp/jp/JVN53292492/</dc:relation>
+  <dc:date>2026-10-06T12:00:00+09:00</dc:date>
+  <dcterms:issued>2026-10-06T12:00:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-10-06T12:00:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/jp/JVN24352487/">
+  <title>GROWIにおけるアクセス制限不備の脆弱性</title>
+  <link>https://jvn.jp/jp/JVN24352487/</link>
+  <description>株式会社GROWIが提供するGROWIには、アクセス制限不備の脆弱性が存在します。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVN#24352487</dc:identifier>
+  <dc:relation>https://jvn.jp/jp/JVN24352487/</dc:relation>
+  <dc:date>2026-10-05T15:00:00+09:00</dc:date>
+  <dcterms:issued>2026-10-05T15:00:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-10-05T15:00:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU94648869/">
+  <title>Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）</title>
+  <link>https://jvn.jp/vu/JVNVU94648869/</link>
+  <description>The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#94648869</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU94648869/</dc:relation>
+  <dc:date>2026-10-02T10:00:30+09:00</dc:date>
+  <dcterms:issued>2026-10-02T10:00:30+09:00</dcterms:issued>
+  <dcterms:modified>2026-10-02T10:00:30+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU91842649/">
+  <title>CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）</title>
+  <link>https://jvn.jp/vu/JVNVU91842649/</link>
+  <description>米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#91842649</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU91842649/</dc:relation>
+  <dc:date>2026-10-02T10:00:15+09:00</dc:date>
+  <dcterms:issued>2026-10-02T10:00:15+09:00</dcterms:issued>
+  <dcterms:modified>2026-10-02T10:00:15+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU92911062/">
+  <title>InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性</title>
+  <link>https://jvn.jp/vu/JVNVU92911062/</link>
+  <description>CERT/CCから本件に関するアドバイザリが公表されました。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#92911062</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU92911062/</dc:relation>
+  <dc:date>2026-10-02T10:00:00+09:00</dc:date>
+  <dcterms:issued>2026-10-02T10:00:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-10-02T10:00:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU93468181/">
+  <title>OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）</title>
+  <link>https://jvn.jp/vu/JVNVU93468181/</link>
+  <description>OpenSSL ProjectからOpenSSL Security Advisory [29th September 2026]が公開されました。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#93468181</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU93468181/</dc:relation>
+  <dc:date>2026-10-01T11:30:00+09:00</dc:date>
+  <dcterms:issued>2026-10-01T11:30:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-10-01T11:30:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU90160989/">
+  <title>富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性</title>
+  <link>https://jvn.jp/vu/JVNVU90160989/</link>
+  <description>富士フイルムビジネスイノベーション製およびシャープ製の複合機（MFP）には、パストラバーサルの脆弱性が存在します。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#90160989</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU90160989/</dc:relation>
+  <dc:date>2026-09-30T12:30:00+09:00</dc:date>
+  <dcterms:issued>2026-09-30T12:30:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-09-30T12:30:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU93754811/">
+  <title>CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）</title>
+  <link>https://jvn.jp/vu/JVNVU93754811/</link>
+  <description>米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#93754811</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU93754811/</dc:relation>
+  <dc:date>2026-09-30T09:00:00+09:00</dc:date>
+  <dcterms:issued>2026-09-30T09:00:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-09-30T09:00:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU96968110/">
+  <title>PFU製Image Scanner Driver for Linuxにおける複数の脆弱性</title>
+  <link>https://jvn.jp/vu/JVNVU96968110/</link>
+  <description>株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#96968110</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU96968110/</dc:relation>
+  <dc:date>2026-09-29T15:00:00+09:00</dc:date>
+  <dcterms:issued>2026-09-29T15:00:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-09-29T15:00:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/jp/JVN22475874/">
+  <title>Pgpool-IIにおける複数の脆弱性</title>
+  <link>https://jvn.jp/jp/JVN22475874/</link>
+  <description>Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVN#22475874</dc:identifier>
+  <dc:relation>https://jvn.jp/jp/JVN22475874/</dc:relation>
+  <dc:date>2026-09-29T14:00:00+09:00</dc:date>
+  <dcterms:issued>2026-09-29T14:00:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-09-29T14:00:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU99151548/">
+  <title>Authlibライブラリにおける署名検証が回避される脆弱性</title>
+  <link>https://jvn.jp/vu/JVNVU99151548/</link>
+  <description>CERT/CCから本件に関するアドバイザリが公表されました。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#99151548</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU99151548/</dc:relation>
+  <dc:date>2026-09-29T09:15:00+09:00</dc:date>
+  <dcterms:issued>2026-09-29T09:15:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-09-29T09:15:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU97027767/">
+  <title>Siemens製品に対するアップデート（2026年9月）</title>
+  <link>https://jvn.jp/vu/JVNVU97027767/</link>
+  <description>Siemensから各製品向けのアドバイザリが公表されました。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#97027767</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU97027767/</dc:relation>
+  <dc:date>2026-09-29T09:00:00+09:00</dc:date>
+  <dcterms:issued>2026-09-04T10:15:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-09-29T09:00:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU94863997/">
+  <title>バッファロー製Wi-Fi製品における複数の脆弱性</title>
+  <link>https://jvn.jp/vu/JVNVU94863997/</link>
+  <description>株式会社バッファローが提供する複数のWi-Fi製品の設定画面には、複数の脆弱性が存在します。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#94863997</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU94863997/</dc:relation>
+  <dc:date>2026-09-28T13:30:00+09:00</dc:date>
+  <dcterms:issued>2026-09-28T13:30:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-09-28T13:30:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU97703430/">
+  <title>ISC BINDにおける複数の脆弱性（2026年9月）</title>
+  <link>https://jvn.jp/vu/JVNVU97703430/</link>
+  <description>ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#97703430</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU97703430/</dc:relation>
+  <dc:date>2026-09-28T11:30:00+09:00</dc:date>
+  <dcterms:issued>2026-09-18T16:45:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-09-28T11:30:00+09:00</dcterms:modified>
+ </item>
+  <item rdf:about="https://jvn.jp/vu/JVNVU96520526/">
+  <title>Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性</title>
+  <link>https://jvn.jp/vu/JVNVU96520526/</link>
+  <description>CERT/CCから本件に関するアドバイザリが公表されました。</description>
+  <dc:publisher>JVN</dc:publisher>
+  <dc:creator>jvn@jvn.jp</dc:creator>
+  <dc:identifier>JVNVU#96520526</dc:identifier>
+  <dc:relation>https://jvn.jp/vu/JVNVU96520526/</dc:relation>
+  <dc:date>2026-09-28T09:15:00+09:00</dc:date>
+  <dcterms:issued>2026-09-28T09:15:00+09:00</dcterms:issued>
+  <dcterms:modified>2026-09-28T09:15:00+09:00</dcterms:modified>
+ </item>
+ </rdf:RDF>
